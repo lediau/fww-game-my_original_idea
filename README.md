@@ -11,3 +11,5 @@
                 </ul>
                 <hr>
                 <p>The purpose is to figure out all 6 <b>answers</b>, fill the <i>pot</i> with <i>candies(letters)</i> and <b>pass the level</b>.</p>
+
+![image](https://user-images.githubusercontent.com/33701673/179854773-858f427f-a3a1-4d8d-af2d-85e54b602843.png)
